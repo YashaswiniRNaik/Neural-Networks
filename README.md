@@ -27,7 +27,7 @@ For class 0 (no heart disease):
 - Precision: 79%, Recall: 68%, F1-Score: 73%.
 For class 1 (heart disease):
 - Precision: 76%, Recall: 85%, F1-Score: 80%.
-- 
+
 The model performs better at identifying heart disease cases (recall = 85%) than detecting the absence of heart disease
 
 
